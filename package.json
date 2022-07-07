@@ -1,0 +1,11 @@
+
+  "name": "wowman",
+  "version": "0.0.0",
+  "description": "A CLI World of Warcraft addon manager allowing file-based config and easy settings management",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bjarke Brodin <bjarke@brodin.io>",
+  "license": "MIT"
+}
